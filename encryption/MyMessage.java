@@ -3,7 +3,8 @@ package com.encryption;
 import java.security.Key;
 import java.util.Arrays;
 import java.util.Scanner;
-import com.decryption.*;
+
+import com.decryption.DecryptMessage;
 
 public class MyMessage {
 
